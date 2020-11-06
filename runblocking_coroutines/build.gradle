@@ -7,7 +7,7 @@ android {
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "com.ttn.runblocking_coroutines"
+        applicationId "com.local.runblocking_coroutines"
         minSdkVersion 23
         targetSdkVersion 29
         versionCode 1
